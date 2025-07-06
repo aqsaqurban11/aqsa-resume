@@ -1,3 +1,3 @@
-# My Resume
+# Aqsa Qurban - Resume
 
-[👉 Click here to Download/View My Resume (PDF)](Resume.pdf)
+You can download/View my resume here: [Resume.pdf](Resume.pdf)
